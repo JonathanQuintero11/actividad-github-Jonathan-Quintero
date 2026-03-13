@@ -1,3 +1,3 @@
 Proyecto: Git Conflicts
-Responsable: Jonathan_Quintero
+Responsable: Equipo-B
 Version: 1.0
